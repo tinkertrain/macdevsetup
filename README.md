@@ -105,6 +105,10 @@ MySQL
 	- Theme: phoenix
 - Sublime keymap: `[ { "keys": ["ctrl+s"], "command": toggle_side_bar" } ]`
 
+##Alfred
+
+- [Workflows](https://github.com/zenorocha/alfred-workflows/)
+
 
 ##Acknowledgements
 
