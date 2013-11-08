@@ -50,7 +50,9 @@ source $ZSH/oh-my-zsh.sh
 # Customize to your needs...
 export PATH=$PATH:/Users/jpablo/.rbenv/shims:/Users/jpablo/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin
 export PATH="$HOME/.rbenv/bin:$PATH"
+export PATH="$HOME/.nvm/v0.10.21/bin:$PATH"
 eval "$(rbenv init -)"
 
+source $HOME/.nvm/nvm.sh
 . ~/code/z/z.sh
 [ -s $HOME/.nvm/nvm.sh ] && . $HOME/.nvm/nvm.sh # This loads NVM
