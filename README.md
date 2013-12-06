@@ -96,13 +96,16 @@ MySQL
 - Packages:
 	- emmet
 	- sass
+	- less
+	- html/css/js prettify
+	- autoprefixer
 	- advancednewfile
 	- sidebar enhancements
 	- trailing spaces
 	- sublimelinter
 	- bracket highlighter
-	- Colour theme: Dracula
-	- Theme: phoenix
+	- colour theme: Dracula
+	- theme: phoenix
 - Sublime keymap: `[ { "keys": ["ctrl+s"], "command": toggle_side_bar" } ]`
 
 ##Alfred
