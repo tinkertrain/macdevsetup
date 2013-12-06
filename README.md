@@ -74,7 +74,7 @@ In the terminal:
 
 Apache
 
-- Apache configuration file included for guide
+- Apache configuration file included for guidance
 
 PHP
 
