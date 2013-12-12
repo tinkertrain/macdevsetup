@@ -12,6 +12,7 @@ Files for setting up a mac just the way I like it.
 ##OSX
 
 - Use the .osx included
+- [QuickLook plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 ##Terminal
 
