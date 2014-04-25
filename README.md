@@ -46,7 +46,7 @@ In the terminal:
 
 ### [Homebrew](http://brew.sh/)
 
-- Install `ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
+- Install `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
 
 ### Ruby: [rbenv](https://github.com/sstephenson/rbenv)
 
@@ -65,6 +65,7 @@ In the terminal:
 - Install `npm install -g yo`
 - This installs yeoman, grunt and bower
 
+### [gitsh](https://github.com/thoughtbot/gitsh)
 
 ### Tools
 
